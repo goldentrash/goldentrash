@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello~ I'm...
 
-<!--
-**goldentrash/goldentrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Timeline
 
-Here are some ideas to get you started:
+- 2019.03 ~ 2020.06: Konkuk.Univ Dept. of SW
+- 2020.07 ~ 2020.08: Naver Boostcamp Challenge (WEB)
+- 2021.06 ~ 2022.12: ROKA
+- 2023.03 ~ present: Konkuk.Univ Dept. of Computer Science & Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trial
+
+|                | Gardener                           | WhitePlaces                                                                                             |
+| -------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Duration       | 2020.03 ~ 2020.06                  | 2021.02 ~ 2021.06                                                                                       |
+| Stack          | react-redux + express + mongoDB    | (Elm -> ) react + apollo + Netlfiy Functions + FaunaDB                                                  |
+| What I touched | SPA, Middleware, RestfulAPI, OAuth | graphQL, Functional Paradigm, Serverless, De-Nomalization, Git Hooks, Code Generator & Schema Validator |
+| Status         | Stopped                            | Stopped                                                                                                 |
