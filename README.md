@@ -1,6 +1,7 @@
 ## Experience
 
 ### GDG on Campus Konkuk (formerly GDSC Konkuk)
+- 2025 Google Solution Challenge APAC : [SeoulMate](https://github.com/gdsc-konkuk/24-25-proj-SeoulMate-Server)
 - [Rust Study](https://github.com/goldentrash/2024-Konkuk-Rust-Roguelike)
 - 2023 Google Solution Challenge : [Plantory](https://github.com/gdsc-konkuk/23-24-proj-Plantory-Server)
 
