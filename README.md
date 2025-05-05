@@ -6,6 +6,7 @@
 - 2023 Google Solution Challenge : [Plantory](https://github.com/gdsc-konkuk/23-24-proj-Plantory-Server)
 
 ### Konkuk Univ. Computer Science & Engineering
+- Self designed project : [Study Up](https://github.com/sleppy-navigators/study-up-backend) - Grow together, laugh even when you fail
 - for graduation : [EEmaGe](https://github.com/goldentrash/EEmaGe) - Encoder for reconstructing visual stimuli from brain waves
 
 ## Open Source
