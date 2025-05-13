@@ -3,7 +3,7 @@
 ### GDG on Campus Konkuk (formerly GDSC Konkuk)
 - 2025 Google Solution Challenge APAC : [SeoulMate](https://github.com/gdsc-konkuk/24-25-proj-SeoulMate-Server) - For you fascinated by Seoul, insider recommendations to explore
 - [Admin Page](https://github.com/gdsc-konkuk/platform-core) - May the year we gift be worth remembering
-- Studies : [Rust](https://github.com/goldentrash/2024-Konkuk-Rust-Roguelike), [SQL Tuning](https://github.com/goldentrash/imdb), [Spring Framework](https://github.com/goldentrash/24-25-study-spring-learning-with-test) etc
+- Studies : [Rust](https://github.com/goldentrash/2024-Konkuk-Rust-Roguelike), [Spring Framework](https://github.com/goldentrash/24-25-study-spring-learning-with-test) etc
 - 2023 Google Solution Challenge : [Plantory](https://github.com/gdsc-konkuk/23-24-proj-Plantory-Server) - Together with plants, nurturing life and greening our planet
 
 ### Konkuk Univ. Computer Science & Engineering
